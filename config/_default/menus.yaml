@@ -1,7 +1,7 @@
 leftnav:
 - identifier: 42302a80-a779-eca6-3858-16bd7c7a6bf1
   name: Syllabus
-  url: /pages/syllabus
+  pageRef: /pages/syllabus
   weight: 10
 - identifier: external-1af01f3448cf4e38ab2cf31853c0a23e
   name: Online Publication
